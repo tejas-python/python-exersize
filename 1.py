@@ -1,3 +1,4 @@
-for i in range(2,101):
-    fp = open(str(i)+ ".py", 'x')
-    fp.close()
+a = 2
+a = 4
+a = 6
+print(a + a + a)
