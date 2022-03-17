@@ -1,0 +1,6 @@
+archer
+mars
+jupiter
+pluto
+earth
+mercury
